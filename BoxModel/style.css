@@ -1,0 +1,15 @@
+div{
+    border:2px solid black;
+    margin:20px;
+    text-align: center;
+    margin-top:0px;
+}
+#BoxContent{
+    padding-bottom:150px;
+}
+#BoxBorder{
+    background-color: rgb(255, 243, 33);
+}
+#BoxPadding{
+    background-color: white;
+}
